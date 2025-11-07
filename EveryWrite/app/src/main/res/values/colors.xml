@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Yellow Theme Colors -->
+    <color name="sunshine_yellow">#FFFFD700</color>
+    <color name="golden_yellow">#FFFFC107</color>
+    <color name="light_yellow">#FFFFF9C4</color>
+    <color name="dark_yellow">#FFF57F17</color>
+    <color name="warm_amber">#FFFFA000</color>
+    <color name="soft_yellow">#FFFFFDE7</color>
+    <color name="bright_yellow">#FFFFEB3B</color>
+
+    <!-- Neutral Colors -->
+    <color name="warm_gray">#FFF5F5F5</color>
+    <color name="charcoal">#FF424242</color>
+    <color name="light_charcoal">#FF616161</color>
+    <color name="success_green">#FF4CAF50</color>
+    <color name="error_red">#FFF44336</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <!-- Theme Colors -->
+    <color name="primary_yellow">@color/sunshine_yellow</color>
+    <color name="primary_dark_yellow">@color/dark_yellow</color>
+    <color name="accent_amber">@color/warm_amber</color>
+</resources>

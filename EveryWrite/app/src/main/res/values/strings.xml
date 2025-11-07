@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">📝 EveryWrite</string>
+
+    <!-- Auth Strings -->
+    <string name="login">🚪 Login</string>
+    <string name="signup">✨ Create Account</string>
+    <string name="email">📧 Email Address</string>
+    <string name="password">🔒 Password</string>
+    <string name="username">👤 Username</string>
+    <string name="confirm_password">🔑 Confirm Password</string>
+    <string name="welcome_back">👋 Welcome Back!</string>
+    <string name="create_account">🌟 Join EveryWrite</string>
+    <string name="dont_have_account">Don\'t have an account? </string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="your_notes_everywhere">📚 Your thoughts, organized beautifully! ✨</string>
+    <string name="join_everywrite">🎉 Start Your Journey</string>
+
+    <!-- Notes Strings -->
+    <string name="notes">📓 My Notes</string>
+    <string name="reminders">⏰ Reminders</string>
+    <string name="settings">⚙️ Settings</string>
+    <string name="reviews">⭐ Reviews &amp; Feedback</string>
+    <string name="logout">🚪 Logout</string>
+    <string name="add_note">➕ New Note</string>
+    <string name="edit_note">✏️ Edit Note</string>
+    <string name="new_note">🆕 Create Note</string>
+    <string name="title">📌 Note Title</string>
+    <string name="content">📄 Note Content</string>
+    <string name="save">💾 Save Changes</string>
+    <string name="delete">🗑️ Delete Note</string>
+    <string name="search_notes">🔍 Search your notes...</string>
+    <string name="no_notes">✨ No notes yet\nTap the + button to create your first note! 🎉</string>
+    <string name="enter_note_title">💡 What\'s on your mind?</string>
+    <string name="enter_note_content">📝 Start writing your thoughts here...</string>
+    <string name="pinned">📌 Pinned</string>
+    <string name="archived">📁 Archived</string>
+
+    <!-- Settings Strings -->
+    <string name="clear_cache">🧹 Clear Cache</string>
+    <string name="reminder_defaults">⏰ Default Reminder Times</string>
+    <string name="documents_cache">💾 Storage Management</string>
+    <string name="list_order">📋 Sort Notes By</string>
+    <string name="morning">🌅 Morning (8:00 AM)</string>
+    <string name="afternoon">☀️ Afternoon (1:00 PM)</string>
+    <string name="evening">🌙 Evening (6:00 PM)</string>
+    <string name="by_time_creation">🕒 Date Created (Newest First)</string>
+    <string name="by_time_updated">🕒 Last Updated</string>
+    <string name="alphabetical">🔤 Alphabetical</string>
+
+    <!-- Reviews Strings -->
+    <string name="rate_app">⭐ Rate EveryWrite</string>
+    <string name="share_feedback">💬 Share Your Experience</string>
+    <string name="your_rating">🎯 Your Rating</string>
+    <string name="write_review">📝 Write a Review</string>
+    <string name="submit_review">🚀 Submit Review</string>
+    <string name="thank_you_feedback">🙏 Thank you for your feedback!</string>
+    <string name="app_reviews">📊 Community Reviews</string>
+    <string name="average_rating">📈 Average Rating</string>
+    <string name="total_reviews">🔢 Total Reviews</string>
+    <string name="review_hint">💭 Share what you love about EveryWrite...</string>
+    <string name="review_title">📝 Review Title</string>
+    <string name="no_reviews_yet">📝 Be the first to review!\nShare your experience and help us improve 🌟</string>
+
+    <!-- Demo Strings -->
+    <string name="demo_credentials">🎮 Quick Start Demo:\n📧 demo@everywrite.com\n🔒 demo123</string>
+
+    <!-- Dialog Strings -->
+    <string name="logout_confirmation">Are you sure you want to logout?</string>
+    <string name="delete_confirmation">Are you sure you want to delete this note?</string>
+    <string name="cancel">❌ Cancel</string>
+    <string name="confirm">✅ Confirm</string>
+    <string name="ok">👌 OK</string>
+
+    <!-- Welcome Strings -->
+    <string name="welcome_user">👋 Hello, %s!</string>
+    <string name="welcome_guest">👋 Welcome to EveryWrite!</string>
+
+    <!-- Error Messages -->
+    <string name="error_required">⚠️ This field is required</string>
+    <string name="error_email_invalid">⚠️ Please enter a valid email</string>
+    <string name="error_password_short">⚠️ Password must be at least 6 characters</string>
+    <string name="error_passwords_mismatch">⚠️ Passwords don\'t match</string>
+    <string name="error_login_failed">❌ Invalid email or password</string>
+    <string name="error_network">📡 Please check your connection</string>
+
+    <!-- Success Messages -->
+    <string name="success_note_saved">✅ Note saved successfully!</string>
+    <string name="success_note_deleted">✅ Note deleted</string>
+    <string name="success_account_created">🎉 Account created successfully!</string>
+</resources>

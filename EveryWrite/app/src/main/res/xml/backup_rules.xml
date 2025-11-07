@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:tools="http://schemas.android.com/tools">
+    <!--
+    This file specifies the rules for Auto Backup for the application.
+    https://developer.android.com/guide/topics/data/autobackup
+    -->
+    <include domain="file" path="."/>
+    <exclude domain="file" path="databases/notes_database"/>
+    <exclude domain="sharedpref" path="."/>
+    <exclude domain="database" path="notes_database"
+        tools:ignore="FullBackupContent" />
+    <exclude domain="file" path="cache/"/>
+    <exclude domain="file" path="tmp/"/>
+</full-backup-content>

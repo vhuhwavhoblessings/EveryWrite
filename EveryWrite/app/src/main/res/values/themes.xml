@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EveryWrite" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/sunshine_yellow</item>
+        <item name="colorOnPrimary">@color/charcoal</item>
+        <item name="colorPrimaryContainer">@color/sunshine_yellow</item>
+        <item name="colorOnPrimaryContainer">@color/charcoal</item>
+    </style>
+
+    <style name="Theme.EveryWrite" parent="Base.Theme.EveryWrite" />
+</resources>
